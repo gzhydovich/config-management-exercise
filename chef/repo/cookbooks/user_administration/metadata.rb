@@ -1,0 +1,6 @@
+name 'user_administration'
+maintainer 'Gene Z'
+maintainer_email 'yzhydovich@gmail.com'
+license 'all_rights'
+description 'User administration'
+version '0.1.0'
